@@ -47,5 +47,5 @@ def add_characters
          ]
       }
    }
-    epic_tragedy[:]
+    epic_tragedy[:additional_characters] = [{name:}, {name: }]
 end
